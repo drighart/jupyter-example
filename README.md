@@ -1,6 +1,12 @@
 # jupyter-example
 
-In dit voorbeeld project wordt vanuit een Jupyter notebook de gemaakte bestanden ge-pushed naar Github. Zorg dat je een Jupyter notebook kunt openen. Open een terminal tab (dit staat in dezelfde popup waar je voor een Python2 of Python3 notebook kunt kiezen). In de terminal (bash) is een Linux prompt $ zichtbaar waarin allerlei linux commando's ingegeven kunnen worden. Middels **conda** kun je op deze manier bijvoorbeeld nieuwe packages installeren. Je kunt ook het commando **git** gebruiken om bestanden in te checken in GitHub.
+In dit voorbeeld project wordt vanuit een Jupyter notebook de gemaakte bestanden ge-pushed naar Github. Zorg dat je een Jupyter notebook kunt openen. Open een **terminal tab** (dit staat in dezelfde popup waar je voor een Python2 of Python3 notebook kunt kiezen). In de terminal (bash) is een Linux prompt $ zichtbaar waarin allerlei linux commando's ingegeven kunnen worden. Middels **conda** kun je op deze manier bijvoorbeeld nieuwe packages installeren. Je kunt ook het commando **git** gebruiken om bestanden in te checken in GitHub.
+
+Op de terminal tab (zwart scherm) staat een prompt, zoiets als:
+```console
+jovyan@xxxxx-jupyter-test-2196714232-0sblt:~/work$
+```
+Hieronder is deze pompt aangegeven als $.
 
 Om te beginnen is het handig om een aantal handige Git globale variabele te zetten:
 ```console
