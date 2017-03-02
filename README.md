@@ -54,4 +54,6 @@ Wanneer er reeds een repository op Github is waar je gebruik van wilt maken, dan
 ```console
 $ git clone https://github.com/drighart/jupyter-example.git
 ```
+De url kun je kopieren van de website van Github bij de repository. Klik op de knop "Clone or download"
 
+Zie verder: https://git-scm.com/docs/gittutorial 
